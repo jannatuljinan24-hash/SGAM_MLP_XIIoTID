@@ -1,5 +1,7 @@
 # SGAM-MLP-XIIoTID
 
+*SGAM-MLP stands for Source-Group-Aware Masking Multi-Layer Perceptron.*
+
 This repository contains the code and final experiment notebook for our work on robust multiclass intrusion detection using the X-IIoTID dataset.
 
 The main idea of this study is to look at what happens when a complete group of features becomes unavailable during inference. In a real IIoT monitoring environment, network, resource, or activity information may not always be available at the same time. Our proposed model, SGAM-MLP, was designed to make the classifier less dependent on any single source group.
