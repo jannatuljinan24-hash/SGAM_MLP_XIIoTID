@@ -149,15 +149,20 @@ If the trained artifacts and evaluation results already exist in Google Drive, t
 
 ## Dataset
 
-The raw X-IIoTID dataset is not included in this repository because of its size.
+The X-IIoTID dataset used in this study is publicly available.
 
-The notebook expects the dataset to be available separately as:
+Official repository:
+https://github.com/Alhawawreh/X-IIoTID
+
+Kaggle dataset page:
+https://www.kaggle.com/datasets/munaalhawawreh/xiiotid-iiot-intrusion-dataset
+
+The raw dataset is not included in this repository because of its size.
+The notebook expects the dataset file to be available separately as:
 
 `X-IIoTID_dataset.csv`
 
-In our Colab setup, the dataset was stored under the project data directory in Google Drive.
-
-Users who want to reproduce the experiment should download X-IIoTID separately and update the dataset path in the notebook if necessary.
+Users who want to reproduce the experiments can download the dataset from one of the sources above and update the dataset path in the notebook if needed.
 
 ## Reproducibility Note
 
