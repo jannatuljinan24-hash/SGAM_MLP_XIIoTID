@@ -1,6 +1,3 @@
-# SGAM_MLP_XIIoTID
-Source-Group-Aware Masking MLP for robust multiclass IIoT intrusion detection using X-IIoTID
-
 # SGAM-MLP-XIIoTID
 
 This repository contains the code and final experiment notebook for our work on robust multiclass intrusion detection using the X-IIoTID dataset.
