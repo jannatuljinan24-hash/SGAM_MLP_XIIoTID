@@ -181,3 +181,13 @@ Email: jannatuljinan24@gmail.com
 
 **Jannatul Ferdouse Shifa**  
 Email: jannatulshifa067@gmail.com
+
+## View the Notebook
+
+The final notebook is available in this repository:
+
+`SGAM_MLP_XIIoTID.ipynb`
+
+If GitHub does not render the notebook preview, the full notebook can also be viewed through NBViewer:
+
+[View the full notebook on NBViewer](https://nbviewer.org/github/jannatuljinan24-hash/SGAM_MLP_XIIoTID/blob/main/SGAM_MLP_XIIoTID.ipynb)
